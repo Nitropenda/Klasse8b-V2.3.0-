@@ -6,4 +6,4 @@ Changelog:
 
 Download-Link (Mediafire)
 
-[Klasse8b-v2.3.0](https://www.mediafire.com/file/8zfv1vekac3dxvv/klasse8b_v2.3.1.zip/file)
+[Klasse8b-v2.3.1](https://www.mediafire.com/file/8zfv1vekac3dxvv/klasse8b_v2.3.1.zip/file)
