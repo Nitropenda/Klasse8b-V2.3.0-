@@ -6,8 +6,7 @@ Changelog:
 
 Download-Link (Mediafire)
 
-[Klasse8b-v2.3.1](https://www.mediafire.com/file/8zfv1vekac3dxvv/klasse8b_v2.3.1.zip/file)
-
+[Klasse8b-v2.3.1](https://www.mediafire.com/file/deyd67q6hxmcz4h/klasse8b_v2.3.1.zip/file)
 ## Wie installiere ich das Texture-Pack?
 
 1. Gebe in der Suchleiste deines PCs den Speicherpfad "%appdata%" und drücke Enter.
